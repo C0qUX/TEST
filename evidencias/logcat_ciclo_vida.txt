@@ -1,0 +1,12 @@
+10-14 15:53:59.894  2519  2519 D MainActivity: onPause Called
+10-14 15:54:00.022  2519  2519 D MainActivity: onStop Called
+10-14 15:54:00.079  2519  2519 D MainActivity: onDestroy Called
+10-14 15:54:00.241  2519  2519 D MainActivity: onCreate Called
+10-14 15:54:00.249  2519  2519 D MainActivity: onStart Called
+10-14 15:54:00.254  2519  2519 D MainActivity: onResume Called
+10-14 15:54:46.758  2519  2519 D MainActivity: onPause Called
+10-14 15:54:46.768  2519  2519 D MainActivity: onStop Called
+10-14 15:54:46.806  2519  2519 D MainActivity: onDestroy Called
+10-14 15:54:46.962  2519  2519 D MainActivity: onCreate Called
+10-14 15:54:46.968  2519  2519 D MainActivity: onStart Called
+10-14 15:54:46.970  2519  2519 D MainActivity: onResume Called
