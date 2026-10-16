@@ -1,5 +1,8 @@
 # Dessert Clicker con ViewModel
 
+**Estudiante:** Jork Davis Lucas Garcia  
+**Cuenta GitHub:** C0qUX
+
 Proyecto final de la practica PEA para Android Basics con Jetpack Compose. Parte del
 proyecto oficial de Dessert Clicker y completa estas dos actividades:
 
@@ -27,3 +30,4 @@ Para verificarlo desde consola:
 ```powershell
 .\gradlew.bat testDebugUnitTest assembleDebug
 ```
+
